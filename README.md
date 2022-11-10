@@ -1,6 +1,6 @@
-# D-EDN-GTM: Distilled Encoder-decoder Network with Guided Transmission Map for Compact Single Image Haze Removal
+# D-EDN-GTM: Distilled Encoder-decoder Network with Guided Transmission Map for Efficient Single Image Dehazing
 
-Authors: [Le-Anh Tran](https://tranleanh.github.io/), [Dong-Chul Park](https://ieeexplore.ieee.org/author/37275453300)
+This is the code for the submission #5593 to CVPR2023
 
 ## ***Updates***
 - [x] Results on benchmarks
@@ -124,17 +124,4 @@ SSIM-Parameters trade-off comparison on Dense-HAZE (top) and NH-HAZE (bottom) da
   </tr>
 </table>
 
-
-## References
-
-Source Code:
-
-- https://github.com/tranleanh/edn-gtm
-
-Papers:
-
-- [A novel encoder-decoder network with guided transmission map for single image dehazing](https://www.sciencedirect.com/science/article/pii/S1877050922008201)
-
-Have fun!
-
-LA Tran
+Thank you!
