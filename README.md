@@ -124,4 +124,3 @@ SSIM-Parameters trade-off comparison on Dense-HAZE (top) and NH-HAZE (bottom) da
   </tr>
 </table>
 
-Thank you!
