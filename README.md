@@ -1,6 +1,6 @@
 # D-EDN-GTM: Distilled Encoder-decoder Network with Guided Transmission Map for Efficient Single Image Dehazing
 
-This is the code for the submission #5593 to CVPR2023
+This is the code for the submission #5593 at CVPR2023
 
 ## ***Updates***
 - [x] Results on benchmarks
